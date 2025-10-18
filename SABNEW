@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YNhiOnTop/YNhiScript/refs/heads/main/SABNEW"))()
+local a = "loadstring(game:HttpGet("https://raw.githubusercontent.com/PhatLee877/ynhi/refs/heads/main/ynhi"))()"
